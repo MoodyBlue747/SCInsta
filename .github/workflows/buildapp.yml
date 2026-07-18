@@ -94,7 +94,7 @@ jobs:
             
             - name: Build SCInsta tweak for sideloading (as IPA)
               run: |
-                pip install --force-reinstall https://github.com/asdfzxcvbn/pyzule-rw/archive/refs/tags/v1.4.4.zip
+                pip install --force-reinstall https://github.com/asdfzxcvbn/pyzule-rw/archive/refs/tags/v384.0.0.zip
  
                 
                 cd main
